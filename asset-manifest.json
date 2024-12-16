@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pizza-Menu-Tutoril/static/css/main.ec313818.css",
+    "main.js": "/Pizza-Menu-Tutoril/static/js/main.ef0491c8.js",
+    "static/js/488.79d7c4e5.chunk.js": "/Pizza-Menu-Tutoril/static/js/488.79d7c4e5.chunk.js",
+    "index.html": "/Pizza-Menu-Tutoril/index.html",
+    "main.ec313818.css.map": "/Pizza-Menu-Tutoril/static/css/main.ec313818.css.map",
+    "main.ef0491c8.js.map": "/Pizza-Menu-Tutoril/static/js/main.ef0491c8.js.map",
+    "488.79d7c4e5.chunk.js.map": "/Pizza-Menu-Tutoril/static/js/488.79d7c4e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec313818.css",
+    "static/js/main.ef0491c8.js"
+  ]
+}
